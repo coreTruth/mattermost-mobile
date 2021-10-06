@@ -79,7 +79,7 @@
     "semver": "6.3.0",
     "shallow-equals": "1.0.0",
     "tinycolor2": "1.4.1",
-    "url-parse": "1.4.7"
+    "url-parse": "1.5.2"
   },
   "devDependencies": {
     "@babel/cli": "7.6.4",
