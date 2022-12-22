@@ -115,7 +115,7 @@
     "react-test-renderer": "16.10.2",
     "redux-mock-store": "1.5.3",
     "remote-redux-devtools": "0.5.16",
-    "socketcluster": "14.4.1",
+    "socketcluster": "17.2.0",
     "underscore": "1.9.1",
     "util": "0.12.1"
   },
